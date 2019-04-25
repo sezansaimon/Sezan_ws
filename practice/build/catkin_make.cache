@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/sezan/Desktop/Sezan_ws/practice/devel -DCMAKE_INSTALL_PREFIX=/home/sezan/Desktop/Sezan_ws/practice/install -G Unix Makefiles
